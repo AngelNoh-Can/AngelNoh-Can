@@ -11,10 +11,9 @@
 <!-- Saludo con efecto typing -->
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px" alt="saludo"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=800&color=0A84FF&center=true&vCenter=true&width=700&height=60&lines=¡Hola!+Soy+Angel+Geovanni+Noh+Can" alt="Typing"/>
+  ¡Hola! Soy Angel Geovanni Noh Can
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px" alt="saludo"/>
 </h1>
-
 <!-- Roles -->
 <h3>
   <img src="https://img.shields.io/badge/💻_Ingeniero_en_TI-0D1117?style=for-the-badge&labelColor=0A84FF&logoColor=white"/>
