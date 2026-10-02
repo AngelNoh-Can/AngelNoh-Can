@@ -46,50 +46,66 @@
 </div>
 
 <!-- Divisor -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:0D1117&height=3&width=100%" width="100%"/>
 
 <br>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       👨‍💻 SOBRE MÍ                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- SOBRE MÍ -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Programando"/>
-</div>
 
 <h2>
   <img src="https://img.shields.io/badge/👨‍💻_Sobre_Mí-0D1117?style=for-the-badge&labelColor=0A84FF"/>
 </h2>
 
-🎯 Soy **Ingeniero en TI** especializado en **desarrollo de software, aplicaciones web y sistemas empresariales**.
-
-⚡ Transformo **requisitos reales de operación** en soluciones digitales **seguras, escalables y mantenibles**.
-
-📚 Actualmente fortalezco mis habilidades en **ciberseguridad, análisis de datos, inteligencia artificial y arquitectura de software**.
-
-> 💡 **Mi misión:** crear software **útil, seguro y duradero** que resuelva problemas reales.
-
-<br clear="right"/>
+</div>
 
 <br>
 
-<table align="center">
+<table>
 <tr>
-<td>
+<td width="65%" valign="middle">
 
-```typescript
-/**
- * ╔══════════════════════════════════════════════════════╗
- * ║          👋  ¡Hola, Mundo!                           ║
- * ╚══════════════════════════════════════════════════════╝
- */
-const angel: Desarrollador = {
-  rol:        "🎯 Ingeniero en TI · Desarrollador de Software",
-  ubicacion:  "🌎 México",
-  idiomas:    ["🇲🇽 Español (nativo)", "🇺🇸 Inglés (profesional)"],
-  stack:      ["⚡ Laravel", "🐘 PHP", "🗄️ MySQL", "✨ JavaScript"],
-  enfoque:    ["🌐 Apps Web", "🏢 Sistemas Empresariales", "☁️ SaaS"],
-  aprendiendo:["🔐 Ciberseguridad", "📊 Análisis de Datos", "🤖 IA"],
-  valores:    ["💎 Código limpio", "🛡️ Seguridad primero", "📚 Aprendizaje continuo"],
-  abiertoA:   ["🤝 Colaboración", "💼 Freelance", "🚀 Tiempo completo"]
-};
+### 🎓 &nbsp;Perfil Profesional
 
-console.log("🚀 ¡Listo para construir algo increíble!");
+Soy un profesional del área de **Tecnologías de la Información**, egresado de la carrera de **Ingeniería en Entornos Virtuales y Negocios Digitales**, con interés en el **desarrollo de software**, **aplicaciones web** y la creación de **soluciones tecnológicas** orientadas a las necesidades de las empresas.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Programando"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🚀_Proyectos-0D1117?style=for-the-badge&labelColor=0A84FF"/>
+
+<br><br>
+
+Me interesa participar en proyectos relacionados con el **desarrollo, implementación y mejora de sistemas**, buscando crear aplicaciones **funcionales, seguras, eficientes y fáciles de utilizar**.
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/💡_Conocimientos-0D1117?style=for-the-badge&labelColor=0A84FF"/>
+
+<br><br>
+
+Cuento con conocimientos en **desarrollo web**, **bases de datos** y **programación**, así como experiencia **académica y práctica** en la creación de aplicaciones y sistemas orientados a **resolver problemas reales**.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
