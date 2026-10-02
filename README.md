@@ -1,14 +1,17 @@
 <div align="center">
 
-<!-- Banner -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                            BANNER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <img src="Banner.png" alt="Angel Geovanni Noh Can - Banner" width="100%">
 
 <br><br>
 
-<!-- Saludo -->
+<!-- Saludo con efecto typing -->
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px" alt="saludo"/>
-  ¡Hola! Soy Angel Geovanni Noh Can
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=800&color=0A84FF&center=true&vCenter=true&width=700&height=60&lines=¡Hola!+Soy+Angel+Geovanni+Noh+Can" alt="Typing"/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px" alt="saludo"/>
 </h1>
 
@@ -46,8 +49,10 @@
 </div>
 
 <!-- Divisor -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:0D1117&height=3&width=100%" width="100%"/>
 
 <br>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       👨‍💻 SOBRE MÍ                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -109,3 +114,23 @@ Cuento con conocimientos en **desarrollo web**, **bases de datos** y **programac
 </div>
 
 <br>
+
+<!-- Bloque de código -->
+```typescript
+/**
+ * ╔══════════════════════════════════════════════════════╗
+ * ║          👋  ¡Hola, Mundo!                           ║
+ * ╚══════════════════════════════════════════════════════╝
+ */
+const angel: Desarrollador = {
+  rol:        "🎯 Ingeniero en TI · Desarrollador de Software",
+  ubicacion:  "🌎 México",
+  idiomas:    ["🇲🇽 Español (nativo)", "🇺🇸 Inglés (profesional)"],
+  stack:      ["⚡ Laravel", "🐘 PHP", "🗄️ MySQL", "✨ JavaScript"],
+  enfoque:    ["🌐 Apps Web", "🏢 Sistemas Empresariales", "☁️ SaaS"],
+  aprendiendo:["🔐 Ciberseguridad", "📊 Análisis de Datos", "🤖 IA"],
+  valores:    ["💎 Código limpio", "🛡️ Seguridad primero", "📚 Aprendizaje continuo"],
+  abiertoA:   ["🤝 Colaboración", "💼 Freelance", "🚀 Tiempo completo"]
+};
+
+console.log("🚀 ¡Listo para construir algo increíble!");
